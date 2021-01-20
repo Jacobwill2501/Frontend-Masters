@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Snell Roundhand";
-    src: url("snell-roundhand-script.ttf") format("truetype"), url("snell-woff.woff") format("woff");
+    src: url("./fonts/snell-roundhand-script.ttf") format("truetype"), url("./fonts/snell-woff.woff") format("woff");
     font-style: normal;
 }
 
